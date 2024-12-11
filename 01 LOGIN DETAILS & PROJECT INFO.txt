@@ -1,0 +1,23 @@
+--Admin Login Details---
+
+Email   : admin@mail.com
+Password: Password
+
+---Teacher Login Details---
+
+Email   : aittalb1899@mail.com
+Password: Password
+
+---Student Login Details---
+
+Email   : noureddine.ihichr@mail.com
+Password: Password
+
+---Parents Login Details---
+
+Email   : mohamed.ihichr@mail.com
+Password: Password
+
+
+
+

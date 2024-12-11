@@ -1,0 +1,7 @@
+# Ignore vendor directory
+vendor/
+# Ignore node_modules directory
+node_modules/
+# Ignore environment and cache files
+.env
+.phpunit.result.cache
